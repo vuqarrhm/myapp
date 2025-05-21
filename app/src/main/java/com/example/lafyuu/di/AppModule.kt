@@ -39,18 +39,6 @@ object AppModule {
         return retrofit.create(ProductServices::class.java)
     }
 
-//    @Provides
-//    @Singleton
-//    fun provideRoom(@ApplicationContext context: Context):ProductDataBase{
-//        return Room.databaseBuilder(context,ProductDataBase::class.java,name="appDB").build()
-//
-//    }
-//
-//    @Provides
-//    @Singleton
-//    fun provideDao(productDataBase: ProductDataBase):ProductsDAO{
-//        return productDataBase.productDao()
-//    }
 
     @Singleton
     @Provides
