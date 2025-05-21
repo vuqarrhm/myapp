@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812147933112",
+    "project_id": "lafyuu-d3558",
+    "storage_bucket": "lafyuu-d3558.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812147933112:android:296a1d353ed1970662594d",
+        "android_client_info": {
+          "package_name": "com.example.lafyuu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1HaV5iJIg63uwJKnTq2qBe2OLwCtRUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
